@@ -67,6 +67,10 @@ body {
 .remove-from-cart{
     display: inline;
 }
+
+.change-me {
+color: red;
+}
 footer {
     margin: 50px 0;
 }
