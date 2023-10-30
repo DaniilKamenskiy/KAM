@@ -1,7 +1,8 @@
 body {
+  padding-top: 70x;
   padding: 0 70px;
-  font-size: 14px;
-  line-height: 22px;
+  font-size: 15px;
+  line-height: 28px;
   font-family: "Georgia", serif;
   color: #222222;
 }
