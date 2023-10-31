@@ -1,6 +1,6 @@
 body {
   padding-top: 70px;
-  padding: 0 70px;
+  padding: 70px 70px;
   font-size: 15px;
   line-height: 22px;
   font-family: "Georgia", serif;
@@ -17,8 +17,6 @@ Header
 {
 	padding-top: 40px;
 }
-
-
 .count-input {
 	width:10%;
 	display: inline;
