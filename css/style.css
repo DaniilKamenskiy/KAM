@@ -4,6 +4,8 @@ body {
   line-height: 22px;
   font-family: "Georgia", serif;
   color: #222222;
+  background-image: url("img/Logo.png");
+  background-size: cover;
 }
 
 h1
