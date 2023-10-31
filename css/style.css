@@ -17,7 +17,9 @@ h1
 	display: inline;
 }
 
-
+footer {
+ background-image: url("../img/Nike-logo.png");
+}
 
 .add-to-basket-block {
 	margin-top: 7px;
