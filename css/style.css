@@ -12,7 +12,10 @@ h1
 	text-align: center;
 	color:#321999;
 }
-
+.qq
+{
+	padding: 0px 100px;
+}
 .bordering
 {
    border: 10px solid #2d508f;
