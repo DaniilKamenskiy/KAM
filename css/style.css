@@ -15,7 +15,6 @@ h1
 
 .bordering
 {
-padding: 100px 100px 100px 100px;
 border: 10px solid #2d508f;
 }
 
@@ -23,7 +22,7 @@ border: 10px solid #2d508f;
 	width:10%;
 	display: inline;
 }
-
+e
 .add-to-basket-block {
 	margin-top: 7px;
 }
